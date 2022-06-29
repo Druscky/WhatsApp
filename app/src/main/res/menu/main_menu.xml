@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/meBuscar"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_lupa"
+        android:orderInCategory="100"
+        android:title="@string/meBuscar" />
+    <item
+        android:id="@+id/meNuevoGrupo"
+        android:orderInCategory="100"
+        android:title="@string/meNuevoGrupo" />
+    <item
+        android:id="@+id/meNuevaDifu"
+        android:orderInCategory="100"
+        android:title="@string/meNuevaDifusion" />
+    <item
+        android:id="@+id/meDispVinc"
+        android:title="@string/meDispVinc" />
+    <item
+        android:id="@+id/meMsjDestacados"
+        android:title="@string/meMsjDestacado" />
+    <item
+        android:id="@+id/meAjustes"
+        android:title="@string/meAjustes" />
+</menu>
+

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="meBuscar">Buscar</string>
+    <string name="meNuevoGrupo">Nuevo grupo</string>
+    <string name="meNuevaDifusion">Nueva difusión</string>
+    <string name="meDispVinc">Dispositivos vinculados</string>
+    <string name="meMsjDestacado">Mensajes destacados</string>
+    <string name="meAjustes">Ajustes</string>
+    <string name="meChats">CHATS</string>
+    <string name="meEstados">ESTADOS</string>
+    <string name="meLlamadas">LLAMADAS</string>
+
+</resources>
