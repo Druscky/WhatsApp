@@ -11,5 +11,9 @@
     <string name="meChats">CHATS</string>
     <string name="meEstados">ESTADOS</string>
     <string name="meLlamadas">LLAMADAS</string>
+    <string name="tvHora">Aquí va la hora o icono</string>
+    <string name="tvArchivados">Archivados</string>
+    <string name="tvEstados">Mi estado</string>
+
 
 </resources>

@@ -4,6 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/AndroidStudioProject/WhatsApp/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/AndroidStudioProject/WhatsApp/app/src/main/res/layout/fragment_call.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProject/WhatsApp/app/src/main/res/layout/fragment_chat.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProject/WhatsApp/app/src/main/res/layout/fragment_status.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProject/WhatsApp/app/src/main/res/layout/item_contactos.xml" value="0.36666666666666664" />
         <entry key="..\:/AndroidStudioProject/WhatsApp/app/src/main/res/menu/main_menu.xml" value="0.36666666666666664" />
         <entry key="..\:/AndroidStudioProject/WhatsApp/app/src/main/res/menu/menu.xml" value="0.365625" />
         <entry key="..\:/AndroidStudioProject/WhatsApp/app/src/main/res/menu/toolbar_icons.xml" value="0.36666666666666664" />
